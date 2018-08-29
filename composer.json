@@ -1,0 +1,15 @@
+{
+    "name": "shenjian/shenjian-sdk-php",
+    "description": "Shenjian SDK for PHP",
+    "homepage": "http://www.shenjian.io/",
+    "license": "Apache-2.0",
+    "version": "1.3",
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shenjian\\": "src/Shenjian"
+        }
+    }
+}
