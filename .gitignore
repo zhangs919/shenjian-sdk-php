@@ -1,0 +1,10 @@
+.idea
+.DS_Store
+*.log
+.composer
+log/
+vendor
+/test*.php
+lint/
+protected/commands/nohup.out
+test.php
